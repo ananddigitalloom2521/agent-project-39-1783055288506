@@ -1,0 +1,5 @@
+node_modules/
+public/
+src/models/index.js
+src/routes/index.js
+src/index.js
